@@ -1,0 +1,81 @@
+#menubar {
+	height: 100px;
+	background-color: #ffe6e6;
+}
+#mainbody {
+	height: 800px;
+	background-color: #000000;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+#footer {
+	height: 100px;
+	background-color: #ffe6e6;
+}
+#site {
+	line-height: 100px;
+	color: #4d4d4d;
+	padding-left: 40px;
+	font-size: 80px;
+	text-decoration: none;
+
+}
+#cinema {
+	color: #4d4d4d;
+	text-decoration: none;
+	padding-left: 70%;
+
+}
+#dvd {
+	color: #4d4d4d;
+	text-decoration: none;
+	padding-left: 1%;
+}
+#music {
+	color: #4d4d4d;
+	text-decoration: none;
+	padding-left: 1%;
+}
+#theatre {
+	color: #4d4d4d;
+	text-decoration: none;
+	padding-left: 1%;
+}
+#mainbodyimg {
+	width: 500px;
+}
+#cinemaindex {
+	color: #003399;
+	padding-left: 43.5%;
+	font-size: 25px;
+	line-height: 155px;
+	text-decoration: none;
+
+}
+#cinemalisting {
+	color: #003399;
+	font-size: 25px;
+	text-decoration: none;
+	padding-left: 1%;
+}
+#cinemareviews{
+	color: #003399;
+	font-size: 25px;
+	text-decoration: none;
+	padding-left: 1%;
+}
+#cinemaimg {
+	width: 400px;
+	padding-left: 40%;
+	padding-top: 1%;
+}
+#CImainbody {
+	height: 800px;
+	background-color: #000000;
+}
+#cinemalistingimg {
+	width: 350px;
+	padding-left: 41.3%;
+	padding-top: 1%;
+}
