@@ -45,7 +45,7 @@
 #mainbodyimg {
 	width: 500px;
 }
-#cinemaindex {
+#index {
 	color: #003399;
 	padding-left: 43.5%;
 	font-size: 25px;
@@ -53,13 +53,13 @@
 	text-decoration: none;
 
 }
-#cinemalisting {
+#listing {
 	color: #003399;
 	font-size: 25px;
 	text-decoration: none;
 	padding-left: 1%;
 }
-#cinemareviews{
+#reviews{
 	color: #003399;
 	font-size: 25px;
 	text-decoration: none;
@@ -78,4 +78,49 @@
 	width: 350px;
 	padding-left: 41.3%;
 	padding-top: 1%;
+}
+#dvdindeximg {
+	width: 350px;
+	padding-left: 41.1%;
+	padding-top: 2%;
+}
+#dvdlistingimg {
+	width: 350px;
+	padding-left: 41.1%;
+	padding-top: 2%;
+}
+#dvdreviewsimg {
+	width: 350px;
+	padding-left: 41.1%;
+	padding-top: 2%;
+}
+#musicindeximg {
+	width: 350px;
+	padding-left: 41.1%;
+	padding-top: 1%;	
+}
+#musicreviewsimg {
+	width: 350px;
+	padding-left: 41.1%;
+	padding-top: 1%;	
+}
+#musiclistingimg {
+	width: 350px;
+	padding-left: 41.1%;
+	padding-top: 1%;		
+}
+#theatreindeximg {
+	width: 400px;
+	padding-left: 39.5%;
+	padding-top: 1%;		
+}
+#theatrelistingimg {
+	width: 350px;
+	padding-left: 41%;
+	padding-top: 1%;		
+}
+#theatrereviewsimg {
+	width: 350px;
+	padding-left: 41%;
+	padding-top: 1%;		
 }
